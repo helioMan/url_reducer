@@ -9,7 +9,7 @@
     <div class="max-w-3xl mx-auto">
         <h1 class="text-3xl font-bold mb-4 text-gray-800">URL Shortener Project</h1>
         <p class="mb-6 text-gray-600">A simple URL shortener project built with Node.js, Express, and MongoDB.</p>
-        <h2 class="text-2xl font-bold mb-2 text-gray-800">Benefits</h2>
+        <h2 class="text-2xl font-bold mb-2 text-gray-800">Features</h2>
         <ul class="list-disc list-inside mb-6">
             <li><strong>Intuitive GUI:</strong> Easily view original URL, shortened URL, and the number of times the URL is clicked.</li>
             <li><strong>Concise URLs:</strong> Shortened URLs take up less space, making them easier to share and remember.</li>
