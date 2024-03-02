@@ -4,20 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        pre code {
-            background-color: #f0f0f0;
-            padding: 0.5rem;
-            border-radius: 0.25rem;
-            display: block;
-            overflow-x: auto;
-            font-size: 0.875rem;
-            line-height: 1.5;
-        }
-    </style>
 </head>
 <body class="bg-gray-100 py-8 px-4 sm:px-6 lg:px-8">
     <div class="max-w-3xl mx-auto">
